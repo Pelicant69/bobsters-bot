@@ -1,2 +1,2 @@
 # bobsters-bot
-Bot using heroku, 24/7!
+Open If your Gay lol
